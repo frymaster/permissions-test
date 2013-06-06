@@ -1,0 +1,8 @@
+author: Philip Cass
+database: false
+description: Test the bulk permission methods in https://github.com/Bukkit/Bukkit/pull/879
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: org._127001.frymaster.permissionstest.PermissionsTest
+name: permissions-test
+startup: postworld
+version: '1.0'
